@@ -50,7 +50,7 @@ Do mobile workflow...
 
 ### Useful resources
 
-- [W3Schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - This helped me understand how to make sliders reason. I really liked this pattern and will use it going forward.
+- [W3Schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - This helped me understand how to make sliders. I really liked this pattern and will use it going forward.
 
 ## Author
 
